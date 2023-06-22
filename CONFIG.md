@@ -28,13 +28,9 @@ Find Tolkien related posts on Bluesky
 - tolkien
 - Middle-earth
 - "Lord of the Rings"
-- LotR
-- "Rings of Power"
-- RoP
-- Gollum
-- Silmarillion
 - Hobbit
-- JRRT
+- "Rings of Power"
+
 
 # avatar
 
