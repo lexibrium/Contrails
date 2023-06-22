@@ -1,5 +1,5 @@
 // let's be nice
-const MAX_SEARCH_TERMS = 5;
+const MAX_SEARCH_TERMS = 10;
 const MAX_FETCHES = 7;
 const DEFAULT_LIMIT = 40;
 
