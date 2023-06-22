@@ -9,13 +9,13 @@ tolkien
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-#Tolkien mentions
+Tolkien posts
 
 # description
 
 > This is the description of the feed.
 
-Find Tolkien posts on Bluesky
+Find Tolkien related posts on Bluesky
 
 # searchTerms
 
@@ -25,7 +25,18 @@ Find Tolkien posts on Bluesky
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts (but not replies or reposts).
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- #tolkien
+- tolkien
+- Middle-earth
+- "Lord of the Rings"
+- LotR
+- "Rings of Power"
+- RoP
+- Gollum
+- Silmarillion
+- Hobbit
+- JRRT
+- "JRR Tolkien"
+- "J.R.R. Tolkien"
 
 # avatar
 
