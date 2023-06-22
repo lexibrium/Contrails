@@ -35,8 +35,6 @@ Find Tolkien related posts on Bluesky
 - Silmarillion
 - Hobbit
 - JRRT
-- "JRR Tolkien"
-- "J.R.R. Tolkien"
 
 # avatar
 
