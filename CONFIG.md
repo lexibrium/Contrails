@@ -30,6 +30,7 @@ Find Tolkien related posts on Bluesky
 - "Lord of the Rings"
 - Hobbit
 - "Rings of Power"
+- https://bsky.app/profile/tolkienguide.com/post/3jyu2fzmbim2t
 
 
 # avatar
