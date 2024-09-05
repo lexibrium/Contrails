@@ -8,7 +8,7 @@ Fork or copy the repository and edit `CONFIG.md` to define your feed generator.
 
 Deploy right from [GitHub Actions](https://github.com/features/actions) to [Cloudflare Workers](https://workers.cloudflare.com).
 
-The current release is [**0.1.0**](https://github.com/jcsalterego/Contrails/releases/latest).
+The current release is [**0.2.5**](https://github.com/jcsalterego/Contrails/releases/latest).
 
 ## Requirements
 
@@ -39,10 +39,37 @@ The longer (and incomplete) instructions can be found in [INSTALL.md](INSTALL.md
 
 ## Upgrading
 
+The first step before any major upgrade is to make a copy of your markdown config file. Your best bet is to save it in a separate directory such as `backup_configs/`, or you will have to remember to set `isEnabled` to false so it doesn't get picked up as a live config!
+
 In the event you'd like to pull in the latest changes into a fork of Contrails, GitHub has great documentation here:
 [GitHub Docs: Syncing a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
 
 ## Changelog
+
+### 0.2.5
+
+* Fixes deleteFeedGenerator [#28](https://github.com/jcsalterego/Contrails/issues/28)
+
+### 0.2.4
+
+* `denyList` support. [#13](https://github.com/jcsalterego/Contrails/issues/13)
+
+### 0.2.3
+
+* FIX: publishFeedGenerator threw an error. [#19](https://github.com/jcsalterego/Contrails/issues/19)
+
+### 0.2.2
+
+* FIX: Quoted phrases such as `"blue sky"` work again. This will require case-insensitive matches, e.g. `blue sky`, `Blue Sky` or `BLUE SKY`.
+
+### 0.2.1
+
+* `+reposts` and `+replies` support. Note: Reposts will not be attributed ("reposted by User").
+
+### 0.2.0
+
+* Pagination
+* Safe Mode
 
 ### 0.1.0
 
